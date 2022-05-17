@@ -1,0 +1,13 @@
+C:\Users\65840\source\repos\SUTD-UROP\SUTD-UROP\bin\Debug\netcoreapp3.1\SUTD-UROP.exe
+C:\Users\65840\source\repos\SUTD-UROP\SUTD-UROP\bin\Debug\netcoreapp3.1\SUTD-UROP.deps.json
+C:\Users\65840\source\repos\SUTD-UROP\SUTD-UROP\bin\Debug\netcoreapp3.1\SUTD-UROP.runtimeconfig.json
+C:\Users\65840\source\repos\SUTD-UROP\SUTD-UROP\bin\Debug\netcoreapp3.1\SUTD-UROP.runtimeconfig.dev.json
+C:\Users\65840\source\repos\SUTD-UROP\SUTD-UROP\bin\Debug\netcoreapp3.1\SUTD-UROP.dll
+C:\Users\65840\source\repos\SUTD-UROP\SUTD-UROP\bin\Debug\netcoreapp3.1\SUTD-UROP.pdb
+C:\Users\65840\source\repos\SUTD-UROP\SUTD-UROP\obj\Debug\netcoreapp3.1\SUTD-UROP.csprojAssemblyReference.cache
+C:\Users\65840\source\repos\SUTD-UROP\SUTD-UROP\obj\Debug\netcoreapp3.1\SUTD-UROP.AssemblyInfoInputs.cache
+C:\Users\65840\source\repos\SUTD-UROP\SUTD-UROP\obj\Debug\netcoreapp3.1\SUTD-UROP.AssemblyInfo.cs
+C:\Users\65840\source\repos\SUTD-UROP\SUTD-UROP\obj\Debug\netcoreapp3.1\SUTD-UROP.csproj.CoreCompileInputs.cache
+C:\Users\65840\source\repos\SUTD-UROP\SUTD-UROP\obj\Debug\netcoreapp3.1\SUTD-UROP.dll
+C:\Users\65840\source\repos\SUTD-UROP\SUTD-UROP\obj\Debug\netcoreapp3.1\SUTD-UROP.pdb
+C:\Users\65840\source\repos\SUTD-UROP\SUTD-UROP\obj\Debug\netcoreapp3.1\SUTD-UROP.genruntimeconfig.cache
